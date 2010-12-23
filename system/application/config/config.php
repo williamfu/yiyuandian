@@ -1,5 +1,8 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+
+//asasad
+
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
@@ -8,7 +11,7 @@
 | URL to your CodeIgniter root. Typically this will be your base URL,
 | WITH a trailing slash:
 |
-|	http://example.com/
+|	http://example.com
 |
 */
 $config['base_url']	= "/yiyuandian/";
